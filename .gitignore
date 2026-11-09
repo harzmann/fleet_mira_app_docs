@@ -1,0 +1,9 @@
+/site/
+/.venv/
+/.artifacts/
+__pycache__/
+*.pyc
+.env
+.env.*
+
+/docs/assets/screenshots/**/*.xml

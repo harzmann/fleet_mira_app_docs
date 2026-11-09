@@ -1,0 +1,98 @@
+site_name: Fleet Mira App Documentation
+site_description: Product description, installation and end-user manual for Fleet Mira App
+site_url: https://harzmann.github.io/fleet_mira_app_docs/
+repo_url: https://github.com/harzmann/fleet_mira_app_docs
+repo_name: harzmann/fleet_mira_app_docs
+docs_dir: docs
+site_dir: site
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+plugins:
+  - search
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: false
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: de
+          name: Deutsch
+          build: true
+          site_name: Fleet Mira App – Handbuch
+          site_description: Produktbeschreibung, Installation und Benutzerhandbuch der Fleet Mira App
+          nav_translations:
+            Home: Start
+            Product overview: Produktbeschreibung
+            Installation: Installation
+            Quick start: Schnellstart
+            User manual: Benutzerhandbuch
+            Navigation and appearance: Navigation und Darstellung
+            Tachograph downloads: Fahrtenschreiber auslesen
+            Download profiles: Downloadprofile
+            History and filters: Verlauf und Filter
+            Fleet and drivers: Fuhrpark und Fahrer
+            Servers and settings: Server und Einstellungen
+            Files from DLTNG: Dateien vom DLTNG
+            Export, email and backup: Export, E-Mail und Sicherung
+            Driving-licence checks: Führerscheinkontrolle
+            Screenshots: Ansichten
+            Privacy and storage: Datenschutz und Speicherung
+            Troubleshooting: Problemlösung
+            Version and limitations: Version und Grenzen
+nav:
+  - Home: index.md
+  - Product overview: product-overview.md
+  - Installation: installation.md
+  - Quick start: quick-start.md
+  - User manual:
+      - Navigation and appearance: navigation.md
+      - Tachograph downloads: download.md
+      - Download profiles: profiles.md
+      - History and filters: history.md
+      - Fleet and drivers: fleet.md
+      - Servers and settings: settings.md
+      - Files from DLTNG: dltng.md
+      - Export, email and backup: sharing.md
+      - Driving-licence checks: licence-checks.md
+  - Screenshots: screenshots.md
+  - Privacy and storage: privacy.md
+  - Troubleshooting: troubleshooting.md
+  - Version and limitations: release-notes.md
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+extra_css:
+  - stylesheets/image-lightbox.css
+extra_javascript:
+  - javascripts/image-lightbox.js
+copyright: Copyright © 2026 eh-systemhaus e.K. / Jörg Harzmann
