@@ -26,3 +26,17 @@ Unknown time is not rest time. This is historical information, not a live remain
 Each remote view shows its saved snapshot. **Jetzt abgleichen** requests a new complete snapshot; offline, the previous complete one remains visible. Automatic retrieval runs approximately every six hours, subject to Android scheduling and network permissions. USB sessions have priority.
 
 Enable reminders on the primary-server page and allow Android notifications. They use server deadlines and advance notices; snapshots older than 24 hours do not produce new reminders. The background run is scheduled from 09:00 UTC and Android may delay it. Offline cache is not a backup and cannot know about a server revocation until reconnection. Known loss of rights, token expiry or an access change may block remote data; local originals remain.
+
+## Tablet views
+
+These landscape tablet captures use synthetic demonstration data. Click or tap an image to inspect it at its original size.
+
+The area selector opens local records, server vehicles, drivers and deadlines. This example shows local vehicle records.
+
+**Light**
+
+![Fleet Mira App – Tablet – fleet – Light](assets/screenshots/tablet/light-fleet.png)
+
+**Dark**
+
+![Fleet Mira App – Tablet – fleet – Dark](assets/screenshots/tablet/dark-fleet.png)

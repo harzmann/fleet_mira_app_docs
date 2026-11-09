@@ -31,3 +31,17 @@ Die Auswahl bleibt bei Navigation und Drehung erhalten. Ein neuer App-Start begi
 | **Korrektur erforderlich** | Zugang, Ziel oder angezeigten Fehler prüfen |
 
 Eine fehlgeschlagene Signaturprüfung ist kein erfolgreicher Echtheitsnachweis. Originaldateien bleiben unverändert. Suchdaten werden im Hintergrund ergänzt; das kann während USB-Sitzungen pausieren, ohne einen erfolgreichen Download nachträglich zum Fehler zu machen.
+
+## Tablet-Ansichten
+
+Die Aufnahmen im Tablet-Querformat zeigen synthetische Beispieldaten. Klicken oder tippen Sie auf ein Bild, um es in Originalgröße zu prüfen.
+
+Die Übersicht trennt lokalen Downloadstatus und Übertragungsstatus; einzelne Vorgänge lassen sich aufklappen.
+
+**Hell**
+
+![Fleet Mira App – Tablet – history – Hell](assets/screenshots/tablet/light-history.png)
+
+**Dunkel**
+
+![Fleet Mira App – Tablet – history – Dunkel](assets/screenshots/tablet/dark-history.png)

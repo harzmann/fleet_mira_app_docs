@@ -7,7 +7,7 @@ Die mobile Ergänzung für Fahrtenschreiberdaten, Fuhrpark und Führerscheinkont
 [Zum Schnellstart](quick-start.md){ .md-button }
 
 !!! info "Dokumentierter Stand"
-    Dieses Handbuch beschreibt **0.6.0-dev**, Stand 9. November 2026. Der Produktname war zuvor **DTCO Download Android**. Dies ist ein Entwicklungsstand; verfügbare Installationspakete und eine betriebliche Freigabe erhalten Sie über Ihren Bereitstellungsweg. Ein öffentlicher Store-Download wird hier nicht angeboten.
+    Dieses Handbuch beschreibt **0.6.0-dev**, Stand 9. November 2026. Der Produktname war zuvor **DTCO Download Android**. Die aktuelle Debug-signierte APK ist als [GitHub-Vorabversion mit SHA-256-Prüfsumme](installation.md) verfügbar. Sie ist keine Produktionsfreigabe; ein öffentlicher Store-Download wird nicht angeboten.
 
 | Aufgabe | Einstieg |
 |---|---|

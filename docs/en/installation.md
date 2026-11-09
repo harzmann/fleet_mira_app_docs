@@ -1,10 +1,46 @@
 # Installation and updates
 
+## Download APK – 0.6.0-dev
+
+[Download Fleet Mira App 0.6.0-dev](https://github.com/harzmann/fleet_mira_app_docs/releases/download/v0.6.0-dev/fleet-mira-app-0.6.0-dev-debug.apk){ .md-button .md-button--primary }
+
+[Release notes](https://github.com/harzmann/fleet_mira_app_docs/releases/tag/v0.6.0-dev) · [SHA256SUMS.txt](https://github.com/harzmann/fleet_mira_app_docs/releases/download/v0.6.0-dev/SHA256SUMS.txt)
+
+This is a **debug-signed development build** for Android 10 or newer, version code **9**. It is published as a GitHub prerelease, not production or hardware approval. APK size: 70048790 bytes.
+
+### Verify SHA-256
+
+File: `fleet-mira-app-0.6.0-dev-debug.apk`
+
+```text
+dfd22147d574b52f8b414bf8ffc7ff1ba5e260cb152fa0c832be670bdc93f62f
+```
+
+After downloading, verify the complete SHA-256 checksum. For example, in Windows PowerShell:
+
+```powershell
+Get-FileHash -Algorithm SHA256 -LiteralPath '.\fleet-mira-app-0.6.0-dev-debug.apk'
+```
+
+On Linux:
+
+```sh
+sha256sum 'fleet-mira-app-0.6.0-dev-debug.apk'
+```
+
+On macOS:
+
+```sh
+shasum -a 256 'fleet-mira-app-0.6.0-dev-debug.apk'
+```
+
+Compare the complete value with the one above or `SHA256SUMS.txt`. Hexadecimal letter case does not matter. If it differs, do not install the file; download it again from the release. The checksum confirms file identity; updates additionally require a matching APK signature.
+
 ## Prepare
 
 You need Android 10 or newer and enough free storage for the app and DDD files. USB downloads require USB host/OTG support. Network features require reachable services. Have the server address and administrator-provided access details ready when using those features.
 
-Obtain the APK only through your organisation's agreed distribution channel. This website does not currently publish an installation package.
+Use the GitHub prerelease linked above only within your agreed testing/development process, or use a package explicitly approved for your organisation.
 
 ## First installation from an APK
 

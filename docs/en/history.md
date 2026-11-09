@@ -31,3 +31,17 @@ Selections survive navigation and rotation. A new launch starts with the default
 | **Korrektur erforderlich** | Check credentials, target or the displayed error |
 
 A failed signature-check indication is not proof of authenticity. Originals remain unchanged. Search metadata is supplemented in the background; this can pause during USB sessions without turning a successful download into a failure.
+
+## Tablet views
+
+These landscape tablet captures use synthetic demonstration data. Click or tap an image to inspect it at its original size.
+
+The overview separates local download and transfer states; individual entries can be expanded.
+
+**Light**
+
+![Fleet Mira App – Tablet – history – Light](assets/screenshots/tablet/light-history.png)
+
+**Dark**
+
+![Fleet Mira App – Tablet – history – Dark](assets/screenshots/tablet/dark-history.png)

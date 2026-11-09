@@ -1,10 +1,46 @@
 # Installation und Aktualisierung
 
+## APK herunterladen – 0.6.0-dev
+
+[Fleet Mira App 0.6.0-dev herunterladen](https://github.com/harzmann/fleet_mira_app_docs/releases/download/v0.6.0-dev/fleet-mira-app-0.6.0-dev-debug.apk){ .md-button .md-button--primary }
+
+[Release-Hinweise](https://github.com/harzmann/fleet_mira_app_docs/releases/tag/v0.6.0-dev) · [SHA256SUMS.txt](https://github.com/harzmann/fleet_mira_app_docs/releases/download/v0.6.0-dev/SHA256SUMS.txt)
+
+Dies ist eine **Debug-signierte Entwicklungsversion** für Android 10 oder neuer, Versionscode **9**. Sie ist als GitHub-Vorabversion veröffentlicht; eine Produktions- oder Hardwarefreigabe wird damit nicht erteilt. APK-Größe: 70048790 Bytes.
+
+### SHA-256 prüfen
+
+Datei: `fleet-mira-app-0.6.0-dev-debug.apk`
+
+```text
+dfd22147d574b52f8b414bf8ffc7ff1ba5e260cb152fa0c832be670bdc93f62f
+```
+
+Prüfen Sie nach dem Herunterladen die gesamte SHA-256-Prüfsumme. Auf Windows beispielsweise mit PowerShell:
+
+```powershell
+Get-FileHash -Algorithm SHA256 -LiteralPath '.\fleet-mira-app-0.6.0-dev-debug.apk'
+```
+
+Auf Linux:
+
+```sh
+sha256sum 'fleet-mira-app-0.6.0-dev-debug.apk'
+```
+
+Auf macOS:
+
+```sh
+shasum -a 256 'fleet-mira-app-0.6.0-dev-debug.apk'
+```
+
+Vergleichen Sie den vollständigen Wert mit der Angabe oben oder `SHA256SUMS.txt`. Groß-/Kleinschreibung der Hexadezimaldarstellung ist unerheblich. Bei Abweichung die Datei nicht installieren, sondern erneut vom Release laden. Die Prüfsumme bestätigt die Dateiidentität; für Updates ist zusätzlich eine passende APK-Signatur erforderlich.
+
 ## Vorbereiten
 
 Sie benötigen Android 10 oder neuer und ausreichend freien Speicher für App und DDD-Dateien. Für USB-Downloads muss Ihr Gerät USB-Host/OTG unterstützen. Für Netzwerkfunktionen müssen die Gegenstellen erreichbar sein. Halten Sie die Serveradresse und den vom Administrator bereitgestellten Zugang bereit, wenn Sie diese Funktionen verwenden.
 
-Beziehen Sie die APK ausschließlich über den für Ihr Unternehmen vereinbarten Bereitstellungsweg. Diese Website veröffentlicht derzeit kein Installationspaket.
+Verwenden Sie die oben verlinkte GitHub-Vorabversion nur im vereinbarten Test-/Entwicklungsrahmen oder ein ausdrücklich für Ihr Unternehmen freigegebenes Paket.
 
 ## Erstinstallation per APK
 

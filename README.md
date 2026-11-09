@@ -21,7 +21,7 @@ python scripts/check_site.py
 python -m mkdocs serve
 ```
 
-Pushes to `main` build and deploy GitHub Pages through `.github/workflows/pages.yml`; pull requests validate without publishing. Pages must use **GitHub Actions** as its publishing source. The site publishes documentation only. An APK is not automatically published or declared production-ready by a documentation deployment.
+Pushes to `main` build and deploy GitHub Pages through `.github/workflows/pages.yml`; pull requests validate without publishing. Pages must use **GitHub Actions** as its publishing source. Pages publishes documentation. APKs are explicitly published through GitHub Releases; a documentation deployment alone does not publish an APK or declare it production-ready.
 
 Use synthetic demonstration data for screenshots. Do not commit credentials, customer data, internal server addresses, signing keys, APKs or private development reports. Application language coverage must be described separately from documentation language coverage.
 

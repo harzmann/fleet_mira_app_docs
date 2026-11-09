@@ -27,3 +27,17 @@ Open **Profile → Profil erstellen** or **Bearbeiten**. Enter a name and choose
 ## Other actions
 
 Use **Aktionen** to **Duplizieren** (duplicate), **Als Standard** (make default) or **Löschen** (delete). The current default profile cannot be deleted. Deleting another profile does not delete existing downloads. Editing a profile does not rewrite earlier files or acknowledgements.
+
+## Tablet views
+
+These landscape tablet captures use synthetic demonstration data. Click or tap an image to inspect it at its original size.
+
+Profiles show the data selection and default marker; further commands are under Aktionen.
+
+**Light**
+
+![Fleet Mira App – Tablet – profiles – Light](assets/screenshots/tablet/light-profiles.png)
+
+**Dark**
+
+![Fleet Mira App – Tablet – profiles – Dark](assets/screenshots/tablet/dark-profiles.png)

@@ -25,3 +25,17 @@ Die App verwendet einen Android-Downloadservice und kann mit ausgeschaltetem Bil
 ## Ergebnis beurteilen
 
 **Abgeschlossen** beschreibt den lokalen Download. Hinweise, fehlende Daten und Fehler sind separat sichtbar. Für die anschließende Übertragung ist der jeweilige Serverstatus maßgeblich; siehe [Verlauf](history.md). Ein erfolgreicher Softwaretest bestätigt nicht automatisch jedes Telefon-, Adapter-, Kabel- und Fahrtenschreibermodell.
+
+## Tablet-Ansichten
+
+Die Aufnahmen im Tablet-Querformat zeigen synthetische Beispieldaten. Klicken oder tippen Sie auf ein Bild, um es in Originalgröße zu prüfen.
+
+Links stehen Anschluss und Profil, rechts Status und Startaktion. Ohne passenden angeschlossenen Adapter bleibt der Start deaktiviert.
+
+**Hell**
+
+![Fleet Mira App – Tablet – download – Hell](assets/screenshots/tablet/light-download.png)
+
+**Dunkel**
+
+![Fleet Mira App – Tablet – download – Dunkel](assets/screenshots/tablet/dark-download.png)

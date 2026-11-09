@@ -25,3 +25,17 @@ The app uses an Android download service and can continue with the screen off. S
 ## Interpret the result
 
 **Abgeschlossen** describes the local download. Notices, missing data and errors appear separately. Subsequent delivery is governed by the individual server status; see [history](history.md). A successful software test does not automatically qualify every phone, adapter, cable and tachograph model.
+
+## Tablet views
+
+These landscape tablet captures use synthetic demonstration data. Click or tap an image to inspect it at its original size.
+
+Connection and profile are on the left; status and start action are on the right. Without a suitable connected adapter, start remains disabled.
+
+**Light**
+
+![Fleet Mira App – Tablet – download – Light](assets/screenshots/tablet/light-download.png)
+
+**Dark**
+
+![Fleet Mira App – Tablet – download – Dark](assets/screenshots/tablet/dark-download.png)

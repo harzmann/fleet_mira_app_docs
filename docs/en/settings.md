@@ -29,3 +29,17 @@ DLTNG uses the device API key, separate from Fleet Mira access. Its default is H
 **Geräte im Netzwerk** searches for DLTNG/Fleet Mira announcements. A result is a candidate, not proof of trust; older devices may not advertise. Manual setup remains available.
 
 **Diagnose** provides app version, log messages and an optional byte trace for the next download. Traces may contain original payloads. Enable and share them only deliberately, following [privacy and storage](privacy.md).
+
+## Tablet views
+
+These landscape tablet captures use synthetic demonstration data. Click or tap an image to inspect it at its original size.
+
+Labelled groups lead to appearance, connections and support features.
+
+**Light**
+
+![Fleet Mira App – Tablet – settings – Light](assets/screenshots/tablet/light-settings.png)
+
+**Dark**
+
+![Fleet Mira App – Tablet – settings – Dark](assets/screenshots/tablet/dark-settings.png)

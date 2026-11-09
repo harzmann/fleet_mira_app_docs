@@ -27,3 +27,17 @@ Prüfen Sie die angezeigte Zusammenfassung: Ein Profil kann nachträglich bearbe
 ## Weitere Aktionen
 
 Unter **Aktionen** können Sie ein Profil **Duplizieren**, **Als Standard** setzen oder **Löschen**. Das aktuelle Standardprofil ist vor dem Löschen geschützt. Das Löschen anderer Profile löscht keine vorhandenen Downloads. Eine Profiländerung schreibt frühere Dateien und Empfangsbelege nicht um.
+
+## Tablet-Ansichten
+
+Die Aufnahmen im Tablet-Querformat zeigen synthetische Beispieldaten. Klicken oder tippen Sie auf ein Bild, um es in Originalgröße zu prüfen.
+
+Profile zeigen Datenumfang und Standardmarkierung; weitere Befehle stehen unter Aktionen.
+
+**Hell**
+
+![Fleet Mira App – Tablet – profiles – Hell](assets/screenshots/tablet/light-profiles.png)
+
+**Dunkel**
+
+![Fleet Mira App – Tablet – profiles – Dunkel](assets/screenshots/tablet/dark-profiles.png)

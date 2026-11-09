@@ -7,7 +7,7 @@ The mobile companion for tachograph data, fleet information and driving-licence 
 [Quick start](quick-start.md){ .md-button }
 
 !!! info "Documented version"
-    This manual describes **0.6.0-dev**, dated 9 November 2026. The previous product name was **DTCO Download Android**. This is a development build; obtain installation packages and operational approval through your organisation's distribution channel. This site does not offer a public app-store download.
+    This manual describes **0.6.0-dev**, dated 9 November 2026. The previous product name was **DTCO Download Android**. The current debug-signed APK is available as a [GitHub prerelease with a SHA-256 checksum](installation.md). It is not production approval; this site does not offer a public app-store download.
 
 | Task | Start here |
 |---|---|

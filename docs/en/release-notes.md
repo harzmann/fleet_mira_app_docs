@@ -18,4 +18,4 @@ Screenshots use synthetic demonstration data. Data ages, registrations, people a
 
 Direct Bluetooth downloads, automatic driving-licence authenticity verification, qualified automatic country/card-model identification and full translation of the download/settings interface. The app does not calculate its own statutory deadlines or live remaining driving times.
 
-This site publishes product information and instructions. It does not automatically publish APKs. Obtain actually approved packages through your agreed [installation channel](installation.md).
+The current APK is explicitly published as a [debug-signed GitHub prerelease](https://github.com/harzmann/fleet_mira_app_docs/releases/tag/v0.6.0-dev). [Installation](installation.md) provides the download and SHA-256 checksum. Future documentation changes do not automatically publish new APKs.

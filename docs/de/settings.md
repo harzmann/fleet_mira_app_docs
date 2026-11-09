@@ -29,3 +29,17 @@ DLTNG verwendet den Geräte-API-Schlüssel; dieser unterscheidet sich vom Fleet-
 **Geräte im Netzwerk** sucht nach DLTNG-/Fleet-Mira-Ankündigungen. Ein Suchtreffer ist ein Kandidat, kein Vertrauensnachweis; ältere Geräte werden eventuell nicht angekündigt. Manuelle Einrichtung bleibt möglich.
 
 Unter **Diagnose** stehen App-Version, Protokollmeldungen und ein optionaler Byte-Trace für den nächsten Download. Traces können Originalnutzdaten enthalten. Aktivieren und teilen Sie diese nur gezielt nach [Datenschutz und Speicherung](privacy.md).
+
+## Tablet-Ansichten
+
+Die Aufnahmen im Tablet-Querformat zeigen synthetische Beispieldaten. Klicken oder tippen Sie auf ein Bild, um es in Originalgröße zu prüfen.
+
+Beschriftete Gruppen führen zu Darstellung, Verbindungen und Supportfunktionen.
+
+**Hell**
+
+![Fleet Mira App – Tablet – settings – Hell](assets/screenshots/tablet/light-settings.png)
+
+**Dunkel**
+
+![Fleet Mira App – Tablet – settings – Dunkel](assets/screenshots/tablet/dark-settings.png)

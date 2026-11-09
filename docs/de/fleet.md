@@ -26,3 +26,17 @@ Unbekannte Zeiten sind keine Ruhezeit. Die Ansicht ist historisch und zeigt kein
 Jede Remote-Ansicht zeigt ihren gespeicherten Stand. **Jetzt abgleichen** fordert einen aktuellen vollständigen Stand an; ohne Netz bleibt der bisherige vollständige Stand sichtbar. Automatische Abrufe erfolgen ungefähr alle sechs Stunden, abhängig von Android und der Netzfreigabe. USB-Sitzungen haben Vorrang.
 
 Erinnerungen lassen sich auf der Hauptserverseite einschalten und benötigen Android-Benachrichtigungen. Sie verwenden Serverfälligkeiten und Vorwarnungen; aus mehr als 24 Stunden alten Ständen entstehen keine neuen Erinnerungen. Der Hintergrundlauf ist ab 09:00 UTC vorgesehen und kann von Android verzögert werden. Offline-Cache ist kein Backup und kennt einen serverseitigen Widerruf erst nach erneutem Kontakt. Ein bekannter Rechteentzug, Tokenablauf oder Zugangswechsel kann den Remote-Stand sperren; lokale Originaldateien bleiben erhalten.
+
+## Tablet-Ansichten
+
+Die Aufnahmen im Tablet-Querformat zeigen synthetische Beispieldaten. Klicken oder tippen Sie auf ein Bild, um es in Originalgröße zu prüfen.
+
+Die Bereichsauswahl führt zu lokalem Bestand, Serverfahrzeugen, Fahrern und Fälligkeiten. Hier ist der lokale Beispielbestand geöffnet.
+
+**Hell**
+
+![Fleet Mira App – Tablet – fleet – Hell](assets/screenshots/tablet/light-fleet.png)
+
+**Dunkel**
+
+![Fleet Mira App – Tablet – fleet – Dunkel](assets/screenshots/tablet/dark-fleet.png)

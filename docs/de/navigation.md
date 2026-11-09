@@ -19,3 +19,17 @@ Unter **Einstellungen → Darstellung** wählen Sie **System** (Android folgen),
 Ein Pfeil in der Kopfzeile oder Androids Zurück-Funktion führt zur aufrufenden Seite. **Speichern** übernimmt ein Formular, **Abbrechen** verwirft seine Änderungen. Ein aufgeklappter Verlaufseintrag lässt sich durch erneutes Antippen schließen. Symbole ergänzen Beschriftungen; wichtige Zustände werden auch als Text angezeigt.
 
 Die Download-/Einstellungsoberfläche ist noch nicht in allen vorgesehenen Sprachen verfügbar. Die mobile Führerscheinkontrolle verwendet nach der Anmeldung die vom Server bereitgestellte Profilsprache und Region.
+
+## Tablet-Ansichten
+
+Die Aufnahmen im Tablet-Querformat zeigen synthetische Beispieldaten. Klicken oder tippen Sie auf ein Bild, um es in Originalgröße zu prüfen.
+
+Die seitliche Navigation bleibt auf breiten Fenstern sichtbar. Die Einstellungen sind nach Aufgaben gruppiert.
+
+**Hell**
+
+![Fleet Mira App – Tablet – navigation – Hell](assets/screenshots/tablet/light-settings.png)
+
+**Dunkel**
+
+![Fleet Mira App – Tablet – navigation – Dunkel](assets/screenshots/tablet/dark-settings.png)

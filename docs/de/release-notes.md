@@ -18,4 +18,4 @@ Die Abbildungen zeigen synthetische Demonstrationsdaten. Datenstände, Kennzeich
 
 Direkte Bluetooth-Downloads, automatische Führerschein-Echtheitsprüfung, qualifizierte automatische Länder-/Kartenmodellzuordnung und eine vollständig übersetzte Download-/Einstellungsoberfläche. Die App berechnet keine eigenen gesetzlichen Fristen oder Live-Restlenkzeiten.
 
-Diese Website veröffentlicht Produktinformationen und Bedienungsanleitungen. Sie veröffentlicht nicht automatisch APKs. Beziehen Sie tatsächlich freigegebene Pakete über Ihren vereinbarten [Installationsweg](installation.md).
+Die aktuelle APK ist ausdrücklich als [Debug-signierte GitHub-Vorabversion](https://github.com/harzmann/fleet_mira_app_docs/releases/tag/v0.6.0-dev) veröffentlicht. Die [Installationsanleitung](installation.md) enthält Download und SHA-256-Prüfsumme. Künftige Dokumentationsänderungen veröffentlichen nicht automatisch neue APKs.
