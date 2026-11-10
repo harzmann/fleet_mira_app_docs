@@ -22,6 +22,8 @@ Uploads, fleet access, driver history and licence checks require their respectiv
 
 Fleet Mira requires HTTPS with a valid certificate chain and matching server name. Have IT verify the expected SFTP host key. FTPS and SFTP protect the connection; plain FTP does not.
 
+For internal Fleet Mira servers, the [installation guide](installation.md#public-server-certificate) covers publicly trusted certificates with DNS-01, PEM configuration and automatic renewal. The API server does not need to be publicly reachable.
+
 DLTNG uses the device API key, separate from Fleet Mira access. Its default is HTTP on port 8888, with optional HTTPS. HTTP transmits keys and data unencrypted; choose protocol and network according to your organisation's policy. A certificate error is not bypassed by disabling verification or automatically falling back to HTTP.
 
 ## Discovery and diagnostics

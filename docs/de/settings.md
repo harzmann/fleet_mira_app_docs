@@ -22,6 +22,8 @@ Fahrtenschreiber-Uploads, Fuhrpark, Fahrerhistorie und Führerscheinkontrolle be
 
 Fleet Mira benötigt HTTPS mit gültiger Zertifikatskette und passendem Servernamen. Für SFTP muss der erwartete Hostschlüssel durch Ihre IT geprüft werden. FTPS und SFTP schützen die Verbindung; einfaches FTP nicht.
 
+Für interne Fleet-Mira-Server beschreibt die [Installationsanleitung](installation.md#public-server-certificate) öffentlich vertrauenswürdige Zertifikate mit DNS-01, PEM-Konfiguration und automatischer Erneuerung. Dafür muss der API-Server nicht öffentlich erreichbar sein.
+
 DLTNG verwendet den Geräte-API-Schlüssel; dieser unterscheidet sich vom Fleet-Mira-Zugang. Der DLTNG-Standard ist HTTP auf Port 8888, optional HTTPS. Bei HTTP werden Schlüssel und Daten unverschlüsselt übertragen; wählen Sie Protokoll und Netz nach Ihrer betrieblichen Vorgabe. Ein Zertifikatsfehler wird nicht durch Abschalten der Prüfung oder automatischen Rückfall auf HTTP umgangen.
 
 ## Suche und Diagnose
